@@ -1,0 +1,5 @@
+{
+  "test.py::TestClass::()::test_two": true,
+  "test.py::test_answer": true,
+  "test.py::test_needsfiles": true
+}

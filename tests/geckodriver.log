@@ -1,0 +1,632 @@
+1512391697210	geckodriver	INFO	geckodriver 0.19.1
+1512391697221	geckodriver	INFO	Listening on 127.0.0.1:60725
+1512391699295	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ROMAN~1.BIH\\AppData\\Local\\Temp\\rust_mozprofile.NchmiwuKnaxY"
+1512391700784	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\roman.bihun\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 2968, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\roman.bihun\AppData\Local\openvr\openvrpaths.vrpath
+[Child 16152, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16152, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1512391702962	Marionette	INFO	Listening on port 60731
+1512391703420	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512391703459	Marionette	DEBUG	Register listener.js for window 4294967297
+1512391703478	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512391703878	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512391703879	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512391704629	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://rozetka.com.ua/"
+1512391706784	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967314"
+1512391707531	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967341"
+1512391709749	Marionette	DEBUG	Received DOM event "pageshow" for "https://rozetka.com.ua/"
+1512391709925	Marionette	DEBUG	Received DOM event "beforeunload" for "https://rozetka.com.ua/"
+1512391710017	Marionette	DEBUG	Received DOM event "pagehide" for "https://rozetka.com.ua/"
+1512391710022	Marionette	DEBUG	Received DOM event "unload" for "https://rozetka.com.ua/"
+1512391710367	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967328"
+1512391710368	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967316"
+1512391710368	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967304"
+1512391710369	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1512391710369	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1512391710369	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967329"
+1512391710370	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967330"
+1512391710370	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967331"
+1512391710371	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967312"
+1512391710371	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967303"
+1512391710371	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967319"
+1512391710372	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967313"
+1512391710372	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967323"
+1512391710372	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967343"
+1512391710372	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967347"
+1512391710373	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967349"
+1512391710631	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://rozetka.com.ua/telefony-tv-i-ehlektronika/c4627949/"
+1512391711211	Marionette	DEBUG	Received DOM event "pageshow" for "https://rozetka.com.ua/telefony-tv-i-ehlektronika/c4627949/"
+Unable to read VR Path Registry from C:\Users\roman.bihun\AppData\Local\openvr\openvrpaths.vrpath
+[Child 1348, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 1348, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\roman.bihun\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 7204, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1512392183129	geckodriver	INFO	geckodriver 0.19.1
+1512392183140	geckodriver	INFO	Listening on 127.0.0.1:61246
+1512392185214	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ROMAN~1.BIH\\AppData\\Local\\Temp\\rust_mozprofile.kXJJx7RNiP82"
+1512392186687	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\roman.bihun\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10424, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10424, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1512392188849	Marionette	INFO	Listening on port 61254
+1512392189345	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512392189382	Marionette	DEBUG	Register listener.js for window 4294967297
+1512392189401	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512392191854	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512392191854	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512392192523	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://rozetka.com.ua/"
+1512392194322	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967321"
+1512392200451	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967339"
+1512392201900	Marionette	DEBUG	Received DOM event "pageshow" for "https://rozetka.com.ua/"
+1512392202075	Marionette	DEBUG	Received DOM event "beforeunload" for "https://rozetka.com.ua/"
+1512392202163	Marionette	DEBUG	Received DOM event "pagehide" for "https://rozetka.com.ua/"
+1512392202173	Marionette	DEBUG	Received DOM event "unload" for "https://rozetka.com.ua/"
+1512392202710	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967335"
+1512392202710	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967316"
+1512392202711	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967307"
+1512392202711	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1512392202711	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1512392202712	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967324"
+1512392202712	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967325"
+1512392202713	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967326"
+1512392202713	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967309"
+1512392202713	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967303"
+1512392202713	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967341"
+1512392202714	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967310"
+1512392202714	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967314"
+1512392202714	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967318"
+1512392202715	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967337"
+1512392202715	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967344"
+1512392202812	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://rozetka.com.ua/telefony-tv-i-ehlektronika/c4627949/"
+1512392203352	Marionette	DEBUG	Received DOM event "pageshow" for "https://rozetka.com.ua/telefony-tv-i-ehlektronika/c4627949/"
+Unable to read VR Path Registry from C:\Users\roman.bihun\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 12216, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 12216, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\roman.bihun\AppData\Local\openvr\openvrpaths.vrpath
+[Child 636, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\roman.bihun\AppData\Local\openvr\openvrpaths.vrpath
+[Child 14592, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14592, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1512392240554	geckodriver	INFO	geckodriver 0.19.1
+1512392240565	geckodriver	INFO	Listening on 127.0.0.1:61470
+1512392242795	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ROMAN~1.BIH\\AppData\\Local\\Temp\\rust_mozprofile.QGx43uElMHlU"
+1512392244226	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\roman.bihun\AppData\Local\openvr\openvrpaths.vrpath
+[Child 14916, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14916, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1512392246083	Marionette	INFO	Listening on port 61478
+1512392246423	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512392246470	Marionette	DEBUG	Register listener.js for window 4294967297
+1512392246487	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512392248881	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512392248881	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512392249573	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://rozetka.com.ua/"
+1512392251238	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967327"
+1512392251722	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967340"
+1512392254773	Marionette	DEBUG	Received DOM event "pageshow" for "https://rozetka.com.ua/"
+1512392255008	Marionette	DEBUG	Received DOM event "beforeunload" for "https://rozetka.com.ua/"
+1512392255119	Marionette	DEBUG	Received DOM event "pagehide" for "https://rozetka.com.ua/"
+1512392255125	Marionette	DEBUG	Received DOM event "unload" for "https://rozetka.com.ua/"
+1512392255555	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967326"
+1512392255555	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967312"
+1512392255555	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1512392255556	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
+1512392255556	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1512392255556	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967318"
+1512392255557	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967319"
+1512392255557	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967320"
+1512392255557	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967313"
+1512392255558	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967306"
+1512392255558	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967335"
+1512392255559	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967314"
+1512392255559	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967324"
+1512392255559	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967337"
+1512392255562	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967342"
+1512392255562	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967346"
+1512392255817	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://rozetka.com.ua/telefony-tv-i-ehlektronika/c4627949/"
+1512392256550	Marionette	DEBUG	Received DOM event "pageshow" for "https://rozetka.com.ua/telefony-tv-i-ehlektronika/c4627949/"
+1512392256656	Marionette	DEBUG	Received DOM event "beforeunload" for "https://rozetka.com.ua/telefony-tv-i-ehlektronika/c4627949/"
+1512392256920	Marionette	DEBUG	Received DOM event "pagehide" for "https://rozetka.com.ua/telefony-tv-i-ehlektronika/c4627949/"
+1512392256925	Marionette	DEBUG	Received DOM event "unload" for "https://rozetka.com.ua/telefony-tv-i-ehlektronika/c4627949/"
+1512392258106	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://rozetka.com.ua/mobile-phones/c80003/preset=mob-phones/"
+1512392258117	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967349"
+1512392258117	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967352"
+1512392258118	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967351"
+1512392258118	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967356"
+1512392258118	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967357"
+1512392258118	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967362"
+1512392258118	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967364"
+1512392258967	Marionette	DEBUG	Received DOM event "pageshow" for "https://rozetka.com.ua/mobile-phones/c80003/preset=mob-phones/"
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://rozetka.com.ua
+Unable to read VR Path Registry from C:\Users\roman.bihun\AppData\Local\openvr\openvrpaths.vrpath
+[Child 3952, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3952, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+Unable to read VR Path Registry from C:\Users\roman.bihun\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 5736, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+EBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1512392892211	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967315"
+1512392892212	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967316"
+1512392892212	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967317"
+1512392892213	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967310"
+1512392892213	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967303"
+1512392892213	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967346"
+1512392892213	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967311"
+1512392892214	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967318"
+1512392892214	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967334"
+1512392892214	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967336"
+1512392892214	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967349"
+1512392892397	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://rozetka.com.ua/telefony-tv-i-ehlektronika/c4627949/"
+1512392893448	Marionette	DEBUG	Received DOM event "pageshow" for "https://rozetka.com.ua/telefony-tv-i-ehlektronika/c4627949/"
+1512392893606	Marionette	DEBUG	Received DOM event "beforeunload" for "https://rozetka.com.ua/telefony-tv-i-ehlektronika/c4627949/"
+1512392894138	Marionette	DEBUG	Received DOM event "pagehide" for "https://rozetka.com.ua/telefony-tv-i-ehlektronika/c4627949/"
+1512392894142	Marionette	DEBUG	Received DOM event "unload" for "https://rozetka.com.ua/telefony-tv-i-ehlektronika/c4627949/"
+1512392894509	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967352"
+1512392894510	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967356"
+1512392894510	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967355"
+1512392894510	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967359"
+1512392894511	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967360"
+1512392894511	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967365"
+1512392894511	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967367"
+1512392895413	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://rozetka.com.ua/mobile-phones/c80003/preset=mob-phones/"
+1512392896579	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967385"
+1512392896758	Marionette	DEBUG	Received DOM event "pageshow" for "https://rozetka.com.ua/mobile-phones/c80003/preset=mob-phones/"
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\roman.bihun\AppData\Local\openvr\openvrpaths.vrpath
+1512394319331	geckodriver	INFO	geckodriver 0.19.1
+1512394319342	geckodriver	INFO	Listening on 127.0.0.1:64803
+1512394321423	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ROMAN~1.BIH\\AppData\\Local\\Temp\\rust_mozprofile.8Mj0EfT44KEo"
+1512394322976	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\roman.bihun\AppData\Local\openvr\openvrpaths.vrpath
+[Child 15476, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15476, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1512394325464	Marionette	INFO	Listening on port 64811
+1512394325553	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512394325619	Marionette	DEBUG	Register listener.js for window 4294967297
+1512394325731	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512394326018	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512394326019	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512394326608	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://rozetka.com.ua/"
+1512394329059	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967312"
+1512394330164	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967348"
+1512394332610	Marionette	DEBUG	Received DOM event "pageshow" for "https://rozetka.com.ua/"
+1512394332946	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\roman.bihun\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 1852, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Marionette threw an error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: chrome://marionette/content/proxy.js :: sendReply_ :: line 276"  data: no]
+sendReply_@chrome://marionette/content/proxy.js:276:5
+reply@chrome://marionette/content/proxy.js:256:7
+sendToServer@chrome://marionette/content/listener.js:734:3
+sendError@chrome://marionette/content/listener.js:768:3
+dispatch/</<@chrome://marionette/content/listener.js:532:40
+
+Unable to read VR Path Registry from C:\Users\roman.bihun\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10988, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\roman.bihun\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9580, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1512394357296	geckodriver	INFO	geckodriver 0.19.1
+1512394357307	geckodriver	INFO	Listening on 127.0.0.1:64986
+1512394359388	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ROMAN~1.BIH\\AppData\\Local\\Temp\\rust_mozprofile.MyQahhEbiNVa"
+1512394360807	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\roman.bihun\AppData\Local\openvr\openvrpaths.vrpath
+[Child 14084, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14084, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1512394362930	Marionette	INFO	Listening on port 64996
+1512394363017	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512394363111	Marionette	DEBUG	Register listener.js for window 4294967297
+1512394363143	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512394365288	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512394365288	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512394365879	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://rozetka.com.ua/"
+1512394369163	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967337"
+1512394369745	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967343"
+1512394375034	Marionette	DEBUG	Received DOM event "pageshow" for "https://rozetka.com.ua/"
+1512394375203	Marionette	DEBUG	Received DOM event "beforeunload" for "https://rozetka.com.ua/"
+1512394375280	Marionette	DEBUG	Received DOM event "pagehide" for "https://rozetka.com.ua/"
+1512394375286	Marionette	DEBUG	Received DOM event "unload" for "https://rozetka.com.ua/"
+1512394375769	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967318"
+1512394375770	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967312"
+1512394375770	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967304"
+1512394375771	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1512394375771	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1512394375772	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967321"
+1512394375773	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967322"
+1512394375773	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967323"
+1512394375774	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967314"
+1512394375774	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967303"
+1512394375775	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967345"
+1512394375775	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967315"
+1512394375775	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967325"
+1512394375775	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967335"
+1512394375776	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967339"
+1512394375776	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967348"
+1512394375863	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://rozetka.com.ua/telefony-tv-i-ehlektronika/c4627949/"
+1512394376536	Marionette	DEBUG	Received DOM event "pageshow" for "https://rozetka.com.ua/telefony-tv-i-ehlektronika/c4627949/"
+1512394376701	Marionette	DEBUG	Received DOM event "beforeunload" for "https://rozetka.com.ua/telefony-tv-i-ehlektronika/c4627949/"
+1512394376976	Marionette	DEBUG	Received DOM event "pagehide" for "https://rozetka.com.ua/telefony-tv-i-ehlektronika/c4627949/"
+1512394376982	Marionette	DEBUG	Received DOM event "unload" for "https://rozetka.com.ua/telefony-tv-i-ehlektronika/c4627949/"
+1512394378159	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://rozetka.com.ua/mobile-phones/c80003/preset=mob-phones/"
+1512394378163	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967351"
+1512394378163	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967354"
+1512394378163	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967353"
+1512394378163	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967358"
+1512394378164	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967359"
+1512394378195	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967364"
+1512394378195	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967366"
+1512394379034	Marionette	DEBUG	Received DOM event "pageshow" for "https://rozetka.com.ua/mobile-phones/c80003/preset=mob-phones/"
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\roman.bihun\AppData\Local\openvr\openvrpaths.vrpath
+1512394434080	geckodriver	INFO	geckodriver 0.19.1
+1512394434092	geckodriver	INFO	Listening on 127.0.0.1:65281
+1512394436175	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ROMAN~1.BIH\\AppData\\Local\\Temp\\rust_mozprofile.jZlj6Odx9zRY"
+1512394437731	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\roman.bihun\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11196, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11196, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1512394440221	Marionette	INFO	Listening on port 65289
+1512394440299	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512394440372	Marionette	DEBUG	Register listener.js for window 4294967297
+1512394440404	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512394440807	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512394440808	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512394441503	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://rozetka.com.ua/"
+1512394442651	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967312"
+1512394443752	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967342"
+1512394444809	Marionette	DEBUG	Received DOM event "pageshow" for "https://rozetka.com.ua/"
+1512394444998	Marionette	DEBUG	Received DOM event "beforeunload" for "https://rozetka.com.ua/"
+1512394445760	Marionette	DEBUG	Received DOM event "pagehide" for "https://rozetka.com.ua/"
+1512394445765	Marionette	DEBUG	Received DOM event "unload" for "https://rozetka.com.ua/"
+1512394446021	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967326"
+1512394446021	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967309"
+1512394446022	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1512394446023	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967304"
+1512394446024	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967303"
+1512394446025	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967327"
+1512394446025	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967328"
+1512394446026	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967329"
+1512394446026	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967313"
+1512394446027	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
+1512394446027	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967318"
+1512394446028	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967314"
+1512394446028	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967322"
+1512394446029	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967338"
+1512394446029	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967340"
+1512394446029	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967346"
+1512394446485	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://rozetka.com.ua/telefony-tv-i-ehlektronika/c4627949/"
+1512394447046	Marionette	DEBUG	Received DOM event "pageshow" for "https://rozetka.com.ua/telefony-tv-i-ehlektronika/c4627949/"
+1512394447229	Marionette	DEBUG	Received DOM event "beforeunload" for "https://rozetka.com.ua/telefony-tv-i-ehlektronika/c4627949/"
+1512394447944	Marionette	DEBUG	Received DOM event "pagehide" for "https://rozetka.com.ua/telefony-tv-i-ehlektronika/c4627949/"
+1512394447952	Marionette	DEBUG	Received DOM event "unload" for "https://rozetka.com.ua/telefony-tv-i-ehlektronika/c4627949/"
+1512394449270	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967349"
+1512394449270	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967353"
+1512394449271	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967352"
+1512394449271	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967358"
+1512394449272	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967359"
+1512394449272	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967364"
+1512394449272	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967366"
+1512394449273	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967368"
+1512394449274	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967370"
+1512394449738	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://rozetka.com.ua/mobile-phones/c80003/preset=mob-phones/"
+1512394451111	Marionette	DEBUG	Received DOM event "pageshow" for "https://rozetka.com.ua/mobile-phones/c80003/preset=mob-phones/"
+Unable to read VR Path Registry from C:\Users\roman.bihun\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 6820, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\roman.bihun\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10560, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1512394545464	geckodriver	INFO	geckodriver 0.19.1
+1512394545474	geckodriver	INFO	Listening on 127.0.0.1:49221
+1512394547545	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ROMAN~1.BIH\\AppData\\Local\\Temp\\rust_mozprofile.pvwg21B55AIP"
+1512394549379	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\roman.bihun\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9704, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9704, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1512394551279	Marionette	INFO	Listening on port 49229
+1512394551665	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512394551729	Marionette	DEBUG	Register listener.js for window 4294967297
+1512394551754	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512394552054	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512394552055	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512394552909	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://rozetka.com.ua/"
+1512394554025	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967313"
+1512394554934	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967333"
+1512394555815	Marionette	DEBUG	Received DOM event "pageshow" for "https://rozetka.com.ua/"
+1512394556119	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Marionette threw an error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: chrome://marionette/content/proxy.js :: sendReply_ :: line 276"  data: no]
+sendReply_@chrome://marionette/content/proxy.js:276:5
+reply@chrome://marionette/content/proxy.js:256:7
+sendToServer@chrome://marionette/content/listener.js:734:3
+sendError@chrome://marionette/content/listener.js:768:3
+dispatch/</<@chrome://marionette/content/listener.js:532:40
+
+Unable to read VR Path Registry from C:\Users\roman.bihun\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 8888, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\roman.bihun\AppData\Local\openvr\openvrpaths.vrpath
+[Child 344, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1512394683762	geckodriver	INFO	geckodriver 0.19.1
+1512394683772	geckodriver	INFO	Listening on 127.0.0.1:49547
+1512394685850	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ROMAN~1.BIH\\AppData\\Local\\Temp\\rust_mozprofile.s7d1kkFU5pGj"
+1512394687258	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\roman.bihun\AppData\Local\openvr\openvrpaths.vrpath
+[Child 4760, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4760, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1512394689033	Marionette	INFO	Listening on port 49557
+1512394689473	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512394689513	Marionette	DEBUG	Register listener.js for window 4294967297
+1512394689530	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512394691915	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512394691916	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512394692578	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://rozetka.com.ua/"
+1512394695766	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967312"
+1512394696500	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967336"
+1512394697496	Marionette	DEBUG	Received DOM event "pageshow" for "https://rozetka.com.ua/"
+1512394697664	Marionette	DEBUG	Received DOM event "beforeunload" for "https://rozetka.com.ua/"
+1512394697742	Marionette	DEBUG	Received DOM event "pagehide" for "https://rozetka.com.ua/"
+1512394697748	Marionette	DEBUG	Received DOM event "unload" for "https://rozetka.com.ua/"
+Unable to read VR Path Registry from C:\Users\roman.bihun\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://apis.google.com/_/scs/apps-static/_/js/k=oz.gapi.uk.euuJVsDfzo8.O/m=gapi_iframes,gapi_iframes_style_common/rt=j/sv=1/d=1/ed=1/am=AQ/rs=AGLTcCPrIiBhAui8i09ulqYeDNJnN1RcYA/cb=gapi.loaded_0, line 97: TypeError: a is null
+1512394698095	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967327"
+1512394698095	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967315"
+1512394698096	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967304"
+1512394698096	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1512394698096	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1512394698097	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967339"
+1512394698097	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967340"
+1512394698098	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967341"
+1512394698098	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967316"
+1512394698098	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967303"
+1512394698098	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967318"
+1512394698099	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967317"
+1512394698099	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967329"
+1512394698099	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967333"
+1512394698099	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967348"
+1512394698099	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967350"
+1512394698100	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967352"
+1512394698285	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://rozetka.com.ua/telefony-tv-i-ehlektronika/c4627949/"
+1512394699005	Marionette	DEBUG	Received DOM event "pageshow" for "https://rozetka.com.ua/telefony-tv-i-ehlektronika/c4627949/"
+1512394699143	Marionette	DEBUG	Received DOM event "beforeunload" for "https://rozetka.com.ua/telefony-tv-i-ehlektronika/c4627949/"
+1512394699436	Marionette	DEBUG	Received DOM event "pagehide" for "https://rozetka.com.ua/telefony-tv-i-ehlektronika/c4627949/"
+1512394699442	Marionette	DEBUG	Received DOM event "unload" for "https://rozetka.com.ua/telefony-tv-i-ehlektronika/c4627949/"
+1512394700654	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://rozetka.com.ua/mobile-phones/c80003/preset=mob-phones/"
+1512394700671	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967355"
+1512394700671	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967359"
+1512394700671	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967358"
+1512394700672	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967362"
+1512394700672	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967363"
+1512394700672	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967368"
+1512394700672	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967370"
+1512394700673	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967372"
+1512394701745	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967392"
+1512394701803	Marionette	DEBUG	Received DOM event "pageshow" for "https://rozetka.com.ua/mobile-phones/c80003/preset=mob-phones/"
+[Child 9708, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9708, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\roman.bihun\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 5772, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\roman.bihun\AppData\Local\openvr\openvrpaths.vrpath
+[Child 2500, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2500, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512394793732	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512394793732	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512394794739	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://rozetka.com.ua/"
+1512394796168	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967313"
+1512394797201	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967343"
+1512394797454	Marionette	DEBUG	Received DOM event "pageshow" for "https://rozetka.com.ua/"
+1512394797593	Marionette	DEBUG	Received DOM event "beforeunload" for "https://rozetka.com.ua/"
+1512394797683	Marionette	DEBUG	Received DOM event "pagehide" for "https://rozetka.com.ua/"
+1512394797692	Marionette	DEBUG	Received DOM event "unload" for "https://rozetka.com.ua/"
+1512394798336	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://rozetka.com.ua/telefony-tv-i-ehlektronika/c4627949/"
+1512394798341	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967328"
+1512394798341	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967318"
+1512394798342	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967304"
+1512394798342	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1512394798342	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1512394798343	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967329"
+1512394798352	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967330"
+1512394798353	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967331"
+1512394798353	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967315"
+1512394798354	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967303"
+1512394798354	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967319"
+1512394798354	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967316"
+1512394798354	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967332"
+1512394798354	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967346"
+1512394798355	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967348"
+1512394798355	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967351"
+1512394799034	Marionette	DEBUG	Received DOM event "pageshow" for "https://rozetka.com.ua/telefony-tv-i-ehlektronika/c4627949/"
+1512394799141	Marionette	DEBUG	Received DOM event "beforeunload" for "https://rozetka.com.ua/telefony-tv-i-ehlektronika/c4627949/"
+1512394800119	Marionette	DEBUG	Received DOM event "pagehide" for "https://rozetka.com.ua/telefony-tv-i-ehlektronika/c4627949/"
+1512394800123	Marionette	DEBUG	Received DOM event "unload" for "https://rozetka.com.ua/telefony-tv-i-ehlektronika/c4627949/"
+1512394801431	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://rozetka.com.ua/mobile-phones/c80003/preset=mob-phones/"
+1512394801440	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967354"
+1512394801440	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967357"
+1512394801440	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967356"
+1512394801441	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967361"
+1512394801441	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967362"
+1512394801441	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967367"
+1512394801442	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967369"
+1512394802677	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967387"
+1512394803212	Marionette	DEBUG	Received DOM event "pageshow" for "https://rozetka.com.ua/mobile-phones/c80003/preset=mob-phones/"
+Unable to read VR Path Registry from C:\Users\roman.bihun\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 13412, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13412, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\roman.bihun\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11392, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11392, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1512394813290	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1512394813302	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1512394813303	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\roman.bihun\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 9532, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1512395444385	geckodriver	INFO	geckodriver 0.19.1
+1512395444396	geckodriver	INFO	Listening on 127.0.0.1:50261
+1512395446482	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ROMAN~1.BIH\\AppData\\Local\\Temp\\rust_mozprofile.3nh7IdSr8LVL"
+1512395447896	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\roman.bihun\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7940, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7940, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1512395449720	Marionette	INFO	Listening on port 50271
+1512395450099	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512395450138	Marionette	DEBUG	Register listener.js for window 4294967297
+1512395450153	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512395452308	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512395452309	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512395453045	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://rozetka.com.ua/"
+1512395456057	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967312"
+1512395456900	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967341"
+1512395456993	Marionette	DEBUG	Received DOM event "pageshow" for "https://rozetka.com.ua/"
+1512395457296	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\roman.bihun\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 6088, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6088, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, lUnable to read VR Path Registry from C:\Users\roman.bihun\AppData\Local\openvr\openvrpaths.vrpath
+[Child 1272, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1272, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1512395521409	Marionette	INFO	Listening on port 50501
+1512395521594	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512395521657	Marionette	DEBUG	Register listener.js for window 4294967297
+1512395521678	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512395524059	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512395524059	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512395524746	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://rozetka.com.ua/"
+1512395528109	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967336"
+1512395534276	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967342"
+1512395539201	Marionette	DEBUG	Received DOM event "pageshow" for "https://rozetka.com.ua/"
+1512395539538	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\roman.bihun\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 9940, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9940, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\roman.bihun\AppData\Local\openvr\openvrpaths.vrpath
+[Child 4092, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\roman.bihun\AppData\Local\openvr\openvrpaths.vrpath
+[Child 5880, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4092, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5880, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1512395628543	geckodriver	INFO	geckodriver 0.19.1
+1512395628557	geckodriver	INFO	Listening on 127.0.0.1:50784
+1512395630630	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ROMAN~1.BIH\\AppData\\Local\\Temp\\rust_mozprofile.q6N6x2eDIy7p"
+1512395632059	Marionette	INFO	Enabled via --marionette
+[GFX1-]: Could not get a DXGI adapter[
+GFX1-]: Could not get a DXGI adapter
+Unable to read VR Path Registry from C:\Users\roman.bihun\AppData\Local\openvr\openvrpaths.vrpath
+[Child 1960, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1960, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GFX1-]: Could not get a DXGI adapter
+1512395634032	Marionette	INFO	Listening on port 50792
+1512395634257	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512395634319	Marionette	DEBUG	Register listener.js for window 4294967297
+1512395634343	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512395636466	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512395636466	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512395637134	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://rozetka.com.ua/"
+1512395640191	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967332"
+1512395641786	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967341"
+1512395645797	Marionette	DEBUG	Received DOM event "pageshow" for "https://rozetka.com.ua/"
+1512395646126	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\roman.bihun\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12816, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12816, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\roman.bihun\AppData\Local\openvr\openvrpaths.vrpath
+e/common/ipc_channel_win.cc, line 346
+[Child 2632, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1512396366262	Marionette	INFO	Listening on port 52142
+1512396366631	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512396366671	Marionette	DEBUG	Register listener.js for window 4294967297
+1512396366687	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512396368236	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512396368236	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512396368825	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://rozetka.com.ua/"
+1512396373213	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967337"
+1512396373247	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967339"
+1512396373880	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967317"
+1512396373881	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967307"
+1512396373882	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1512396373883	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1512396373888	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967314"
+1512396373890	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967315"
+1512396373890	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967316"
+1512396373890	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967309"
+1512396373891	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967303"
+1512396373892	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967343"
+1512396373892	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967310"
+1512396373893	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967321"
+1512396373893	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967329"
+1512396373894	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967331"
+1512396373895	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967333"
+1512396373895	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967297"
+Unable to read VR Path Registry from C:\Users\roman.bihun\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 13480, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
