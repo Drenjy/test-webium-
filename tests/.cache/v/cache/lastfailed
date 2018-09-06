@@ -1,3 +1,5 @@
 {
-  "test.py::Test::()::test_one": true
+  "test.py::Test": true,
+  "test.py::Test::()::test_one": true,
+  "test.py::Test::test_one": true
 }

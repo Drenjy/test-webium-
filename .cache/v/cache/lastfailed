@@ -1,5 +1,23 @@
 {
   "test.py::TestClass::()::test_two": true,
   "test.py::test_answer": true,
-  "test.py::test_needsfiles": true
+  "test.py::test_needsfiles": true,
+  "tests/test_1.py::Test::test_one245443": true,
+  "tests/test_1.py::Test::test_one34": true,
+  "tests/test_1.py::Test::test_one34443": true,
+  "tests/test_1.py::Test::test_one366544": true,
+  "tests/test_2.py::Test::test_one2": true,
+  "tests/test_3.py": true,
+  "tests/test_3.py::Test::test_one111": true,
+  "tests/test_3.py::Test::test_one2222": true,
+  "tests/test_3.py::Test::test_one3333": true,
+  "tests/test_3.py::test_one111": true,
+  "tests/test_3.py::test_one111[chrome]": true,
+  "tests/test_3.py::test_one111[firefox]": true,
+  "tests/test_3.py::test_one2222": true,
+  "tests/test_3.py::test_one2222[chrome]": true,
+  "tests/test_3.py::test_one2222[firefox]": true,
+  "tests/test_3.py::test_one3333": true,
+  "tests/test_3.py::test_one3333[chrome]": true,
+  "tests/test_3.py::test_one3333[firefox]": true
 }
