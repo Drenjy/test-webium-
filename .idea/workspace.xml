@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ac4a8e60-ba7d-4ac4-8371-c5bf1ebe8713" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/conftest.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pytest.ini" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tests/test_3.py" />
-      <change beforePath="$PROJECT_DIR$/.cache/v/cache/lastfailed" afterPath="$PROJECT_DIR$/.cache/v/cache/lastfailed" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/rozetka.pytest.iml" afterPath="$PROJECT_DIR$/.idea/rozetka.pytest.iml" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/tests/.cache/v/cache/lastfailed" afterPath="$PROJECT_DIR$/tests/.cache/v/cache/lastfailed" />
-      <change beforePath="$PROJECT_DIR$/tests/test.py" afterPath="" />
-    </list>
+    <list default="true" id="ac4a8e60-ba7d-4ac4-8371-c5bf1ebe8713" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,8 +26,8 @@
       <file leaf-file-name="test_1.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tests/test_1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="66" column="32" lean-forward="true" selection-start-line="66" selection-start-column="32" selection-end-line="66" selection-end-column="32" />
+            <state relative-caret-position="441">
+              <caret line="69" column="135" lean-forward="true" selection-start-line="69" selection-start-column="135" selection-end-line="69" selection-end-column="135" />
               <folding />
             </state>
           </provider>
@@ -953,8 +943,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tests/test_1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="66" column="32" lean-forward="true" selection-start-line="66" selection-start-column="32" selection-end-line="66" selection-end-column="32" />
+        <state relative-caret-position="441">
+          <caret line="69" column="135" lean-forward="true" selection-start-line="69" selection-start-column="135" selection-end-line="69" selection-end-column="135" />
           <folding />
         </state>
       </provider>
